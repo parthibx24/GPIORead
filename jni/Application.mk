@@ -9,4 +9,4 @@ APP_ABI := all
 APP_STL := system
 
 # Minimum Supported SDK
-APP_PLATFORM := android-14
+APP_PLATFORM := android-16
